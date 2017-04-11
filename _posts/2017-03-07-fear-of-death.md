@@ -6,8 +6,7 @@ header:
       teaser: http://www.keithbuhler.com/images/trees-holy-cross.jpg
 excerpt: 
 permalink: 
-layout: post
-      image: http://www.keithbuhler.com/images/buhlerreportbanner3.jpg
+layout: single
 tags: []
 comments: true
 author_profile: false

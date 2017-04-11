@@ -6,8 +6,7 @@ header:
       image: http://www.keithbuhler.com/images/banner-buhler-report.svg
 excerpt: 
 permalink: 
-layout: post
-      image: http://www.keithbuhler.com/images/buhlerreportbanner3.jpg
+layout: single
 tags: [Berkeley, SJWs]
 comments: true
 author_profile: false

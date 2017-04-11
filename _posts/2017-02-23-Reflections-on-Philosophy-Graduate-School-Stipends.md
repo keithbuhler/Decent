@@ -5,8 +5,7 @@ header:
       image: http://www.keithbuhler.com/images/banner-buhler-report.svg
       teaser: http://dz0zjhi21dz2t.cloudfront.net/media/80687/tour/1413353793514/1536_front.jpg
 permalink: 
-layout: post
-      image: http://www.keithbuhler.com/images/buhlerreportbanner3.jpg
+layout: single
 tags: []
 comments: true
 author_profile: false

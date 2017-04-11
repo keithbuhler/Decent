@@ -5,8 +5,7 @@ header:
       teaser: http://thelibertycaucus.com/wp-content/uploads/2013/07/henry-hazlitt-economics.jpg
 excerpt: 
 permalink: 
-layout: post
-      image: http://www.keithbuhler.com/images/buhlerreportbanner3.jpg
+layout: single
 tags: [economics, money]
 comments: true
 author_profile: false

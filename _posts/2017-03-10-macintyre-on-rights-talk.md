@@ -6,8 +6,7 @@ header:
       teaser: http://architecturaldialogue.files.wordpress.com/2012/02/macintyre-2.jpg
 excerpt: 
 permalink: 
-layout: post
-      image: http://www.keithbuhler.com/images/buhlerreportbanner3.jpg
+layout: single
 tags: []
 comments: true
 author_profile: false

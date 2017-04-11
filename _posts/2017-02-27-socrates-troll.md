@@ -8,8 +8,7 @@ header:
       teaser: http://www.antarcticaedu.com/lawsocratestrial.jpg
 excerpt: 
 permalink: 
-layout: post
-      image: http://www.keithbuhler.com/images/buhlerreportbanner3.jpg
+layout: single
 tags: [humor]
 comments: true
 author_profile: false

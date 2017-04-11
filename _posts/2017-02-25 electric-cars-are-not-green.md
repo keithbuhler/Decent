@@ -6,8 +6,7 @@ header:
       teaser: https://www.tesla.com/tesla_theme/assets/img/modelx/section-hero-background.jpg?20161201
 excerpt: 
 permalink: 
-layout: post
-      image: http://www.keithbuhler.com/images/buhlerreportbanner3.jpg
+layout: single
 tags: []
 comments: true
 author_profile: false
