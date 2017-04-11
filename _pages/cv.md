@@ -1,10 +1,10 @@
 ---
 layout:    page
-permalink: "/teaching/"
+permalink: "/CV/"
 author:    kbuhler
 keywords:  
-title:     Teaching Info
-menutitle: Teaching
+title:     CV
+menutitle: CV
 weight:    80
 excerpt:   Keith as classical teacher
 

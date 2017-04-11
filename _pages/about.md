@@ -5,7 +5,7 @@ author:    kbuhler
 keywords:  about person demo example
 title:     About Keith Buhler
 menutitle: About
-weight:    90
+weight:    50
 excerpt:   Mini-bio
 ---
 
