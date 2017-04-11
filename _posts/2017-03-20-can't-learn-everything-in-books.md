@@ -6,7 +6,8 @@ header:
       teaser: http://static.rogerebert.com/uploads/review/primary_image/reviews/the-secret-of-kells-2010/hero_EB20100331REVIEWS100339983AR.jpg
 excerpt: 
 permalink: /culture/secret-of-kells/
-layout: single
+layout: post
+      image: http://www.keithbuhler.com/images/buhlerreportbanner3.jpg
 tags: [books]
 comments: true
 author_profile: false

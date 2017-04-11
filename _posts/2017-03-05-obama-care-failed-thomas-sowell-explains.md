@@ -6,7 +6,8 @@ header:
       teaser: https://media2.fdncms.com/arktimes/imager/u/original/4758220/spam-obamacare.png
 excerpt: 
 permalink: 
-layout: single
+layout: post
+      image: http://www.keithbuhler.com/images/buhlerreportbanner3.jpg
 tags: [economics, money]
 comments: true
 author_profile: false

@@ -6,7 +6,8 @@ header:
       teaser: http://www.keithbuhler.com/images/youtube-broken.png
 excerpt: 
 permalink: 
-layout: single
+layout: post
+      image: http://www.keithbuhler.com/images/buhlerreportbanner3.jpg
 tags: []
 comments: true
 author_profile: false

@@ -6,7 +6,8 @@ header:
       teaser: https://i.ytimg.com/vi/j2Mnsxj2N7Y/maxresdefault.jpg
 excerpt: 
 permalink: 
-layout: single
+layout: post
+      image: http://www.keithbuhler.com/images/buhlerreportbanner3.jpg
 tags: []
 comments: true
 author_profile: false

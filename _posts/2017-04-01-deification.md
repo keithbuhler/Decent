@@ -6,7 +6,8 @@ header:
       teaser: http://trinities.org/blog/wp-content/uploads/TheosAgape-e1444308929206.jpg
 excerpt: 
 permalink: 
-layout: single
+layout: post
+      image: http://www.keithbuhler.com/images/buhlerreportbanner3.jpg
 tags: [deification, theology, transhumanism, singularity]
 comments: true
 author_profile: false

@@ -6,7 +6,8 @@ header:
       teaser: https://media.licdn.com/mpr/mpr/AAEAAQAAAAAAAAkKAAAAJDE2ZjYxNDVkLTAzNjgtNGM2My1hYWE3LWU0ZWVlZjNhMmY3Ng.jpg
 excerpt: 
 permalink: 
-layout: single
+layout: post
+      image: http://www.keithbuhler.com/images/buhlerreportbanner3.jpg
 tags: []
 comments: true
 author_profile: false
