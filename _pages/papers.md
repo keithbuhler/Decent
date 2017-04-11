@@ -1,10 +1,10 @@
 ---
 layout:    page
-permalink: "/publications/"
+permalink: "/papers/"
 author:    kbuhler
 keywords:  
-title:     Publications
-menutitle: Publications
+title:     Papers
+menutitle: Papers
 weight:    70
 excerpt:   Keith as classical teacher
 
