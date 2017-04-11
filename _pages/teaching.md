@@ -2,11 +2,11 @@
 layout:    page
 permalink: "/teaching/"
 author:    jwillmer
-keywords:  about person demo example
-title:     About Jens Willmer
+keywords:  
+title:     Teaching Info
 menutitle: Teaching
 weight:    80
-excerpt:   Teaching information.
+excerpt:   Keith as classical teacher
 
 ---
 
