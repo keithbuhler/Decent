@@ -1,11 +1,11 @@
 ---
 layout:    page
-permalink: "/teaching/"
+permalink: "/publications/"
 author:    kbuhler
 keywords:  
-title:     Teaching Info
-menutitle: Teaching
-weight:    80
+title:     Publications
+menutitle: Publications
+weight:    70
 excerpt:   Keith as classical teacher
 
 ---
