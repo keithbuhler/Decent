@@ -6,7 +6,7 @@ keywords:
 title:     CV
 menutitle: CV
 weight:    80
-excerpt:   Keith as classical teacher
+excerpt:   Keith Buhler's curriculum vitae
 
 ---
 
