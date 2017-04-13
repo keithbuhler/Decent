@@ -19,8 +19,6 @@ I teach through dynamic lectures and Socratic dialogue. My classes are interdisc
 Folks tend to enjoy my classroom culture, which is suffused with humor and focused on real conversations about good books. They succeed academically and grow intellectually by reflecting on great books, film, art, and their own lives. 
 
 
-{% include toc %}
-
 <br>
 
 # Courses Taught
