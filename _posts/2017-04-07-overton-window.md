@@ -1,18 +1,21 @@
 ---
-title: Huge Overton Windows, or Entertaining Weird Views
+title: Why to Consider Weird Views
 categories: [Philosophy]
 header:
       image: http://www.keithbuhler.com/images/banner-buhler-report.svg
       teaser: http://48hcc.nz/wp-content/uploads/2016/11/Overton_Window-1024x538.jpg
 excerpt: 
 permalink: 
-layout: single
+layout:            post
 tags: [Overton window, epistemology]
 comments: true
 author_profile: false
 share: true
 excerpt_separator: <!--more-->
 related: true
+title:             "This post demonstrates post content styles"
+menutitle:         "Content styles"
+author:            kbuhler
 
 ---
 

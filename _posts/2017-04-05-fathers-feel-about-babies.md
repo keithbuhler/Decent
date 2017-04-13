@@ -6,7 +6,7 @@ header:
       teaser: https://s-media-cache-ak0.pinimg.com/originals/f0/5a/ed/f05aed3c4a6706923852b36b165290bb.jpg
 excerpt: 
 permalink: 
-layout: single
+layout:            post
 tags: [fathers, babies]
 comments: true
 author_profile: false

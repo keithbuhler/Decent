@@ -6,7 +6,7 @@ header:
       teaser: https://i.ytimg.com/vi/j2Mnsxj2N7Y/maxresdefault.jpg
 excerpt: 
 permalink: 
-layout: single
+layout:            post
 tags: []
 comments: true
 author_profile: false

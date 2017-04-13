@@ -1,7 +1,6 @@
 ---
-layout: default
+layout: page
 ---
-
 
 I'm currently a postdoctoral scholar at the University of Kentucky and a philosophy instructor at Asbury University. 
 
