@@ -25,9 +25,11 @@ My epistemology strives, so far as possible given time constraints, to be what I
 
 Nor do I judge all "official" views (western science, religious monotheism, political democracy) in one swoop, but try to patiently examine them one by one. 
 
-In other words, my Overton Window is enormous. The "unthinkable" sectors are narrow slices at each extreme.  I consider almost all views to be possible alternatives to present policy; the new and radical view just needs an argument, and I'll be convinced. 
+In other words, my Overton Window is enormous. The "unthinkable" sectors are narrow slices at each extreme.  I consider almost all views to be possible alternatives to present policy; the new and radical view just needs an argument, and plausible presuppositions, and I could be convinced. 
 
 This is not to say that I constantly feel vulnerable to being persuaded of wild and strange beliefs. The radical view needs to withstand criticism as well. 
+
+ <!--more-->
 
 ![dante](https://s-media-cache-ak0.pinimg.com/564x/1c/2f/87/1c2f877af59c5a8eef274bc929934847.jpg)
 
@@ -52,8 +54,6 @@ The major benefit of this approach is relational: when I converse with people wi
 In the last five years, I have come across (just in class or work) conspiracy theorists, flat earthers, Tarot card readers, anarchists, alt-right, Russian Orthodox Christians, scientific atheists, Nietzschean nihilists, a person who lives in a haunted hous, prophets and miracle workers, religious nuns, religious "Nones", and others. 
 
 With each person, I strive to _really dialogue_. Strive to listen and talk, to take their thoughts seriously, to disagree without condescension, and generally to have a roaring good time. 
-
-<!--more-->
 
 And I don't let myself write off and dismiss their views in conversation simply because I don't trust the source (which is oftentimes a genetic fallacy) or because they are "weird" to me (which is often the fallacy of personal incredulity). 
 
